@@ -1,0 +1,4 @@
+venv/
+master.hash
+coffre.enc
+salt.bin
